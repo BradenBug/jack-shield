@@ -1,1 +1,3 @@
-# jack-shield
+# jackshield
+
+python3 jackshield.py
